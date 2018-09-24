@@ -1,0 +1,57 @@
+h3{
+  color:#636161;
+  font-size:25px;
+  font-family:"calibri";
+  text-align:center;
+}
+.error{
+	font-family:"calibri";
+	color:#fd0404;
+	text-shadow: 0 0 1px #020202, 0 0 1px #020202;
+}
+	
+body{
+  text-align:center;
+  border-style: solid;
+  border-radius: 16px;
+  border-width: 2px;
+  border-color: #9d9191;
+  background-color:#CCCCCC
+}
+p{
+  color:#50659f;
+  font-size:18px;
+  text-align:center;
+  font-family:"calibri";
+}
+.nooftimes {
+  color:#50659f;
+  font-size:18px;
+  text-align:center;
+  font-family:"Arials";
+}
+.center{
+  position:centre;
+  text-align:center;
+}
+button {
+  background-color: #223f8b;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+.btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
